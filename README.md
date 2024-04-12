@@ -1,1 +1,1 @@
-# README
+print("hello world")
